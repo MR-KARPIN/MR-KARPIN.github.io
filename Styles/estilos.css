@@ -1,11 +1,9 @@
 h1{
-	color:red;
+	color: black;
 }
-.loko{
-	position: absolute;
-	height: 200px;
-	width: 400px;
-	background-color: black;
-	right: 20px;
-	top: 20px;
+li{
+	font-size: 16px;
+}
+li:hover{
+	font-size: 20px;
 }
